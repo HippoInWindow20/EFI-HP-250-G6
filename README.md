@@ -7,3 +7,4 @@ Realtek PCIe GbE
 Realtek Audio (ALC282)  
 Intel Wireless-AC 3168  
 Synaptics SMBus Touchpad (Not working yet)  
+OpenCore 0.8.1
