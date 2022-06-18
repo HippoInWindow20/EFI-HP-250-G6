@@ -7,4 +7,5 @@ Realtek PCIe GbE
 Realtek Audio (ALC282)  
 Intel Wireless-AC 3168  
 Synaptics SMBus Touchpad (Not working yet)  
-OpenCore 0.8.1
+OpenCore 0.8.1  
+**Working on macOS Monterey and Ventura Beta 1**
